@@ -1,0 +1,28 @@
+
+{
+  "short_name": "manuelgeek",
+  "name": "manuelgeek",
+  "display": "standalone",
+  "icons": [{
+        "src": "images/touch/icon-128x128.jpg",
+        "sizes": "128x128",
+        "type": "image/jpg"
+    }, {
+        "src": "images/touch/apple-touch-icon.jpg",
+        "sizes": "152x152",
+        "type": "image/jpg"
+    }, {
+        "src": "images/touch/ms-touch-icon-144x144-precomposed.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+    }, {
+        "src": "images/touch/chrome-touch-icon-192x192.jpg",
+        "sizes": "192x192",
+        "type": "image/jpg"
+  }],
+  "start_url": "/index.html?hs=1",
+  "theme_color": "#00A8FF",
+  "background_color": "#ffffff",
+  "gcm_sender_id": "39559799485",
+  "gcm_user_visible_only": true
+}
