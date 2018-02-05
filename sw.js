@@ -6,8 +6,22 @@ var filesToCache = [
   '/index.html',
   '/css/styles.css',
   '/js/app.js',
-  '/images/yeoman.png',
-  '/images/touch/chrome-touch-icon-192x192.png'
+  '/img/geek.jpg',
+  '/images/touch/chrome-touch-icon-192x192.jpg',
+  'css/normalize.css',
+  'css/bootstrap.css',
+  'css/owl.css',
+  'css/animate.css',
+  'fonts/font-awesome-4.1.0/css/font-awesome.min.css',
+  'fonts/eleganticons/et-icons.css',
+  'css/cardio.css',
+  'js/jquery-1.11.1.min.js',
+  'js/owl.carousel.min.js',
+  'js/bootstrap.min.js',
+  'js/wow.min.js',
+  'js/typewriter.js',
+  'js/jquery.onepagenav.js',
+  'js/main.js'
 ];
 
 self.oninstall = function(event) {
@@ -86,7 +100,7 @@ self.addEventListener('push', function(event) {
   var title = 'Push notification demo';
   var body = 'You have received a notification';
   var tag = 'demo';
-  var icon = '/images/touch/icon-128x128.png';
+  var icon = '/images/touch/icon-128x128.jpg';
 
   event.waitUntil(
     self.registration.showNotification(title, {
