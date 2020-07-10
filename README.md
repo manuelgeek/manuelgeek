@@ -1,0 +1,1 @@
+A computer scientist and a developer. I love technology, creativity, and Innovation, interested in building solutions to solve real user problems. I love communities and open source projects. Currently, into building FinTech solutions. Majorly doing web development but also interested in business intelligence and analytics.
