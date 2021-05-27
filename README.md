@@ -9,5 +9,5 @@ Currently leaarning Elixir and TypeScript
 
 4+ Years PHP, Laravel <br>
 3+ Years JavaScript, Vue, Vuex, Nuxt, Node <br>
-1 Year Elixir, Phoenix, Typescript <br>
+2 Years Elixir, Phoenix, 1 year Typescript <br>
 
