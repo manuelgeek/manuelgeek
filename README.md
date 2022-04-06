@@ -8,7 +8,7 @@ I am a Sotfware Developer. I love Technology, Creativity, and Innovation, intere
 5+ Years PHP, Laravel <br>
 4+ Years JavaScript, Vue, Nuxt <br>
 2+ Years Elixir, Phoenix <br>
-1+ Year React, Node, Typescript, Adonis, Next <br>
+2+ Year React, Node, Typescript, Adonis, Next <br>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
