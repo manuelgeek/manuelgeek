@@ -1,12 +1,12 @@
 <p align="left"><img src="https://magak.me/assets/images/Geek-logo.png" width="80">
   
 ### Hi, I'm Magak
-I am a Software Developer with over 6 years of experience. I love Technology, Creativity, and Innovation, interested in building solutions to solve real user problems. I love Communities and I'm a contributor to Open Source projects.
+I am a Software Developer with over 6 years of experience. I love Technology, Creativity, and Innovation, and I am interested in building solutions to solve real user problems. I love Communities and I'm a contributor to Open Source projects.
 
 ### Experience
 
-5+ Years JavaScript, Vue, Nuxt, React, Node <br>
-4+ Years TypeScript, Next, GraphQL, AWS <br>
+6+ Years JavaScript, Vue, Nuxt, Node, SQL <br>
+4+ Years React, TypeScript, Next, GraphQL, AWS, MongoDB <br>
 6+ Years PHP, Laravel <br>
 2+ Years Elixir, Phoenix, Adonis <br>
 
