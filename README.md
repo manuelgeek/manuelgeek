@@ -5,9 +5,9 @@ I am a Software Developer with over 6 years of experience. I love Technology, Cr
 
 ### Experience
 
-6+ Years JavaScript, Vue, Nuxt, Node, SQL <br>
-4+ Years React, TypeScript, Next, GraphQL, AWS, MongoDB <br>
-6+ Years PHP, Laravel <br>
+8+ Years JavaScript, Vue, Nuxt, Node, SQL <br>
+5+ Years React, TypeScript, Next, GraphQL, AWS, MongoDB, AWS CDK <br>
+8+ Years PHP, Laravel <br>
 2+ Years Elixir, Phoenix, Adonis <br>
 
 
