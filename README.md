@@ -8,8 +8,8 @@ I am a Software Developer with over 9 years of experience. I love Technology, Cr
 9+ Years JavaScript, Vue, Nuxt, Node, SQL <br>
 6+ Years React, TypeScript, Next, GraphQL, AWS, MongoDB, AWS CDK <br>
 10+ Years PHP, Laravel <br>
-2+ Years Elixir, Phoenix, Adonis <br>,
-1+ Years Python
+2+ Years Elixir, Phoenix, Adonis <br>
+1+ Years Python <br>
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
